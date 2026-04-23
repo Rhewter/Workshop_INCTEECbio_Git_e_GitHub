@@ -31,3 +31,9 @@ Capacitar os participantes a: - Entender os conceitos de versionamento de códig
 Dúvidas ou sugestões? Abra uma issue ou entre em contato com o organizador.
 
 Pequenas modificações
+
+```{r}
+install.packages(c("usethis", "gitcreds"))
+usethis::create_github_token()
+gitcreds::gitcreds_set()
+```
