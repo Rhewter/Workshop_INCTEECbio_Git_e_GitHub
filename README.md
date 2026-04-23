@@ -40,4 +40,8 @@ gitcreds::gitcreds_set()
 
 awewe
 
+```{r}
+library(base)
+```
+
 fdfdfsfs
