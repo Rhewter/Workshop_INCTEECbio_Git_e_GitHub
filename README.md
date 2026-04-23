@@ -37,14 +37,3 @@ install.packages(c("usethis", "gitcreds"))
 usethis::create_github_token()
 gitcreds::gitcreds_set()
 ```
-<<<<<<< HEAD
-
-awewe
-
-```{r}
-library(base)
-```
-
-fdfdfsfs
-=======
->>>>>>> 0db22513bef430e62bcc6d61fcfeb9cc0d06a5d2
